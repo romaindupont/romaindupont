@@ -1,7 +1,7 @@
 # Romain DUPONT :technologist:
 ## Web Developper
 ### Technology use :
-React, Redux, HTML/CSS, Javascript Vanilla, Node,Express, Sass, PHP, PostgreSql, Sqlite3... And lot of things to learn again.
+React, Redux, HTML/CSS, Javascript Vanilla, Node, Express, Sass, PHP, PostgreSql, Sqlite3... And lot of things to learn again.
 
 :round_pushpin: I'm living in Caen, France
 :family_man_woman_boy_boy: Father of two lovely boy
